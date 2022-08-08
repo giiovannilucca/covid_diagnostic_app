@@ -1,0 +1,12 @@
+name: covid
+channels:
+  - defaults
+dependencies:
+  - python=3.8.8
+  - opencv
+  - mahotas
+  - xgboost
+  - streamlit
+  - imbalanced-learn
+  - lime
+prefix: C:\Anaconda\envs\covid
